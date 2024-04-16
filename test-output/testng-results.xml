@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T22:51:28 IST" name="Suite" finished-at="2024-04-16T22:54:26 IST" duration-ms="177611">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T22:51:28 IST" name="Test" finished-at="2024-04-16T22:54:26 IST" duration-ms="177611">
+      <class name="com.Test.AutomationExercisePlacedOrder_001">
+        <test-method is-config="true" signature="BS()[pri:0, instance:com.Test.AutomationExercisePlacedOrder_001@1827a871]" started-at="2024-04-16T22:51:26 IST" name="BS" finished-at="2024-04-16T22:51:28 IST" duration-ms="2331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Test.AutomationExercisePlacedOrder_001@1827a871]" started-at="2024-04-16T22:51:29 IST" name="setup" finished-at="2024-04-16T22:52:57 IST" duration-ms="88838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_PlacedOrder()[pri:0, instance:com.Test.AutomationExercisePlacedOrder_001@1827a871]" started-at="2024-04-16T22:52:57 IST" name="Verify_PlacedOrder" finished-at="2024-04-16T22:54:22 IST" duration-ms="84881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_PlacedOrder -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.Test.AutomationExercisePlacedOrder_001@1827a871]" started-at="2024-04-16T22:54:23 IST" name="TearDown" finished-at="2024-04-16T22:54:26 IST" duration-ms="3273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.Test.AutomationExercisePlacedOrder_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
